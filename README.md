@@ -6,4 +6,5 @@ async javascript and +axios/Fetch Api (food2fork.com)<br>
 localStorage<br>
 Webpack + Babel<br>
 Terminal and node package manager<br>
-Proxy servers
+Proxy servers<br>
+modules and MVC architecture
