@@ -3,7 +3,7 @@ Uses Food2Fork recipe api, allowing users to search for recipes. Features includ
 
 # What I Learned
 async javascript and +axios/Fetch Api (food2fork.com)<br>
-localStorage
-Webpack + Babel
-Terminal and node package manager
+localStorage<br>
+Webpack + Babel<br>
+Terminal and node package manager<br>
 Proxy servers
